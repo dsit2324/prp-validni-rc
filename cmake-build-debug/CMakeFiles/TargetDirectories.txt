@@ -1,0 +1,3 @@
+F:/student/IT3/validni_rc/cmake-build-debug/CMakeFiles/validni_rc.dir
+F:/student/IT3/validni_rc/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/student/IT3/validni_rc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
